@@ -10,7 +10,6 @@ A simple Blinkit UI clone built using Flutter, showcasing layout, theming, searc
 - Offers carousel
 - Product grid with pricing and "Add" buttons
 - Responsive design
-- Light & Dark mode toggle
 - Portrait orientation lock
 
 ---
@@ -42,10 +41,11 @@ Make sure you have the following installed:
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen (Light Mode)
-![Home Screen](screenshots/home_screen.png)
-![Products](screenshots/products.png)
-![Products Search](screenshots/product_search.png)
+### 🏠 Home Screen 
+<img src="screenshots/home_screen.png" width="300"/>
+<img src="screenshots/product.png" width="300"/>
+<img src="screenshots/product_search.png" width="300"/>
+
 
 
 
