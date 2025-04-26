@@ -43,7 +43,7 @@ Make sure you have the following installed:
 
 ### 🏠 Home Screen 
 <img src="screenshots/home_screen.png" width="300"/>
-<img src="screenshots/product.png" width="300"/>
+<img src="screenshots/products.png" width="300"/>
 <img src="screenshots/product_search.png" width="300"/>
 
 
